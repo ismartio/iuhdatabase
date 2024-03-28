@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS tblbookIUHX (
+CREATE TABLE IF NOT EXISTS tblbookIUH20037361 (
     id serial PRIMARY KEY,
     title varchar NOT NULL,
     author varchar NOT NULL
